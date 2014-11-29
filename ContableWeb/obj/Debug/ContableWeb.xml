@@ -1,0 +1,2400 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ContableWeb
+</name>
+</assembly>
+<members>
+<member name="F:ContableWeb.frmComprobante.frmComprobanteProveedor">
+	<summary>
+frmComprobanteProveedor control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.hdfSoloLectura">
+	<summary>
+hdfSoloLectura control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.ToolkitScriptManager1">
+	<summary>
+ToolkitScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.cmbTipoComprobante">
+	<summary>
+cmbTipoComprobante control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.txtFecha">
+	<summary>
+txtFecha control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.txtFechaVencimientoExt">
+	<summary>
+txtFechaVencimientoExt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.txtCliente">
+	<summary>
+txtCliente control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.AutoCompleteExtender1">
+	<summary>
+AutoCompleteExtender1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.cmbCondicionVenta">
+	<summary>
+cmbCondicionVenta control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.cmbVendedor">
+	<summary>
+cmbVendedor control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.cmbTipoOrden">
+	<summary>
+cmbTipoOrden control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.txtDescuentoGlobal">
+	<summary>
+txtDescuentoGlobal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.up1">
+	<summary>
+up1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.pnlAgregarItem">
+	<summary>
+pnlAgregarItem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.txtProducto">
+	<summary>
+txtProducto control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.AutoCompleteExtender2">
+	<summary>
+AutoCompleteExtender2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.txtDescripcion">
+	<summary>
+txtDescripcion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.txtPrecioUnitarioItem">
+	<summary>
+txtPrecioUnitarioItem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.txtCantidadItem">
+	<summary>
+txtCantidadItem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.txtDescuento">
+	<summary>
+txtDescuento control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.cmdAgregar">
+	<summary>
+cmdAgregar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.divErrorItem">
+	<summary>
+divErrorItem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.lblErrorItem">
+	<summary>
+lblErrorItem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.grilla">
+	<summary>
+grilla control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.up2">
+	<summary>
+up2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.pnlAgregarCobro">
+	<summary>
+pnlAgregarCobro control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.cmbFormaPago">
+	<summary>
+cmbFormaPago control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.txtImporte">
+	<summary>
+txtImporte control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.pnlTarjeta">
+	<summary>
+pnlTarjeta control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.cmbTipoTarjeta">
+	<summary>
+cmbTipoTarjeta control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.txtCupon">
+	<summary>
+txtCupon control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.txtAutorizacion">
+	<summary>
+txtAutorizacion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.txtCuotas">
+	<summary>
+txtCuotas control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.cmdAgregarFormaDePago">
+	<summary>
+cmdAgregarFormaDePago control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.div1">
+	<summary>
+div1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.grilla2">
+	<summary>
+grilla2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.divErrorForm">
+	<summary>
+divErrorForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.lblErrorForm">
+	<summary>
+lblErrorForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.cmdGuardar">
+	<summary>
+cmdGuardar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante.cmdCancelar">
+	<summary>
+cmdCancelar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmFormaDePago.frmFormaDePago">
+	<summary>
+frmFormaDePago control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmFormaDePago.cmdNuevo">
+	<summary>
+cmdNuevo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmFormaDePago.grilla">
+	<summary>
+grilla control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmProducto.frmProducto">
+	<summary>
+frmProducto control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmProducto.cmdNuevo">
+	<summary>
+cmdNuevo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmProducto.grilla">
+	<summary>
+grilla control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmProductoEdit.frmProductoEdit">
+	<summary>
+frmProductoEdit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmProductoEdit.txtCodProducto">
+	<summary>
+txtCodProducto control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmProductoEdit.cmbFamilia">
+	<summary>
+cmbFamilia control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmProductoEdit.txtDescripcion">
+	<summary>
+txtDescripcion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmProductoEdit.cmbEmrpesa">
+	<summary>
+cmbEmrpesa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmProductoEdit.cmbAlicuotaIva">
+	<summary>
+cmbAlicuotaIva control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmProductoEdit.divErrorForm">
+	<summary>
+divErrorForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmProductoEdit.lblErrorForm">
+	<summary>
+lblErrorForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmProductoEdit.cmdGuardar">
+	<summary>
+cmdGuardar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmProductoEdit.cmdCancelar">
+	<summary>
+cmdCancelar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmTipoTarjeta.frmTipoTarjeta">
+	<summary>
+frmTipoTarjeta control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmTipoTarjeta.cmdNuevo">
+	<summary>
+cmdNuevo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmTipoTarjeta.grilla">
+	<summary>
+grilla control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmTipoTarjetaEdit.frmTipoTarjetaEdit">
+	<summary>
+frmTipoTarjetaEdit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmTipoTarjetaEdit.txtDescripcion">
+	<summary>
+txtDescripcion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmTipoTarjetaEdit.divErrorForm">
+	<summary>
+divErrorForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmTipoTarjetaEdit.lblErrorForm">
+	<summary>
+lblErrorForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmTipoTarjetaEdit.cmdGuardar">
+	<summary>
+cmdGuardar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmTipoTarjetaEdit.cmdCancelar">
+	<summary>
+cmdCancelar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmUsuarioPantalla.frmReporteAcreedores">
+	<summary>
+frmReporteAcreedores control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmUsuarioPantalla.ToolkitScriptManager1">
+	<summary>
+ToolkitScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmUsuarioPantalla.txtUsuario">
+	<summary>
+txtUsuario control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmUsuarioPantalla.AutoCompleteExtender1">
+	<summary>
+AutoCompleteExtender1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmUsuarioPantalla.cmdVerPermisos">
+	<summary>
+cmdVerPermisos control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmUsuarioPantalla.cmdVolver">
+	<summary>
+cmdVolver control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmUsuarioPantalla.Permisos">
+	<summary>
+Permisos control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmUsuarioPantalla.txtPermisos">
+	<summary>
+txtPermisos control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmUsuarioPantalla.AutoCompleteExtender2">
+	<summary>
+AutoCompleteExtender2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmUsuarioPantalla.cmbSiNo">
+	<summary>
+cmbSiNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmUsuarioPantalla.cmdAgregar">
+	<summary>
+cmdAgregar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmUsuarioPantalla.divErrorItem">
+	<summary>
+divErrorItem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmUsuarioPantalla.lblErrorItem">
+	<summary>
+lblErrorItem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmUsuarioPantalla.grilla">
+	<summary>
+grilla control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmUsuarioPantalla.divErrorForm">
+	<summary>
+divErrorForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmUsuarioPantalla.lblErrorForm">
+	<summary>
+lblErrorForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmCuentaCorriente.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmCuentaCorriente.txtCliente">
+	<summary>
+txtCliente control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmCuentaCorriente.cmdVer">
+	<summary>
+cmdVer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmCuentaCorriente.lblSaldo">
+	<summary>
+lblSaldo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb._default.Head1">
+	<summary>
+Control Head1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb._default.login">
+	<summary>
+Control login.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb._default.ScriptManager1">
+	<summary>
+Control ScriptManager1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb._default.UpdatePanel1">
+	<summary>
+Control UpdatePanel1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb._default.divError">
+	<summary>
+Control divError.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb._default.username">
+	<summary>
+Control username.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb._default.password">
+	<summary>
+Control password.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb._default.cmdIngresar">
+	<summary>
+Control cmdIngresar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb._default.lblError">
+	<summary>
+Control lblError.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmBanco.frmBanco">
+	<summary>
+frmBanco control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmBanco.cmdNuevo">
+	<summary>
+cmdNuevo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmBanco.grilla">
+	<summary>
+grilla control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmCliente.frmCliente">
+	<summary>
+frmCliente control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmCliente.cmdNuevo">
+	<summary>
+cmdNuevo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmCliente.grilla">
+	<summary>
+grilla control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.ContableWeb.ulTablas">
+	<summary>
+ulTablas control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.ContableWeb.ulProcesos">
+	<summary>
+ulProcesos control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.ContableWeb.ulReportes">
+	<summary>
+ulReportes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.ContableWeb.ContentTitulo">
+	<summary>
+ContentTitulo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.ContableWeb.contentCuerpo">
+	<summary>
+contentCuerpo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmBancoEdit.frmBancoEdit">
+	<summary>
+frmBancoEdit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmBancoEdit.txtDescripcion">
+	<summary>
+txtDescripcion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmBancoEdit.txtCodigo">
+	<summary>
+txtCodigo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmBancoEdit.divErrorForm">
+	<summary>
+divErrorForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmBancoEdit.lblErrorForm">
+	<summary>
+lblErrorForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmBancoEdit.cmdGuardar">
+	<summary>
+cmdGuardar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmBancoEdit.cmdCancelar">
+	<summary>
+cmdCancelar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmClienteEdit.frmCuentaEdit">
+	<summary>
+frmCuentaEdit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmClienteEdit.txtCuit">
+	<summary>
+txtCuit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmClienteEdit.txtRazonSocial">
+	<summary>
+txtRazonSocial control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmClienteEdit.cmbProvincia">
+	<summary>
+cmbProvincia control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmClienteEdit.cmbLocalidad">
+	<summary>
+cmbLocalidad control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmClienteEdit.txtDomicilio">
+	<summary>
+txtDomicilio control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmClienteEdit.txtCodigoPostal">
+	<summary>
+txtCodigoPostal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmClienteEdit.cmbCondicionIva">
+	<summary>
+cmbCondicionIva control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmClienteEdit.txtTelefono">
+	<summary>
+txtTelefono control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmClienteEdit.txtEmail">
+	<summary>
+txtEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmClienteEdit.cmbCuentaCorriente">
+	<summary>
+cmbCuentaCorriente control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmClienteEdit.cmbListaPrecios">
+	<summary>
+cmbListaPrecios control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmClienteEdit.cmbFormaContacto">
+	<summary>
+cmbFormaContacto control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmClienteEdit.txtObservaciones">
+	<summary>
+txtObservaciones control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmClienteEdit.divErrorForm">
+	<summary>
+divErrorForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmClienteEdit.lblErrorForm">
+	<summary>
+lblErrorForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmClienteEdit.cmdGuardar">
+	<summary>
+cmdGuardar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmClienteEdit.cmdCancelar">
+	<summary>
+cmdCancelar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmEmpresaEdit.frmEmpresaEdit">
+	<summary>
+frmEmpresaEdit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmEmpresaEdit.txtDescripcion">
+	<summary>
+txtDescripcion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmEmpresaEdit.divErrorForm">
+	<summary>
+divErrorForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmEmpresaEdit.lblErrorForm">
+	<summary>
+lblErrorForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmEmpresaEdit.cmdGuardar">
+	<summary>
+cmdGuardar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmEmpresaEdit.cmdCancelar">
+	<summary>
+cmdCancelar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmListaDePreciosEdit.frmEdit">
+	<summary>
+frmEdit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmListaDePreciosEdit.ToolkitScriptManager1">
+	<summary>
+ToolkitScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmListaDePreciosEdit.txtDescripcion">
+	<summary>
+txtDescripcion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmListaDePreciosEdit.txtProducto">
+	<summary>
+txtProducto control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmListaDePreciosEdit.AutoCompleteExtender2">
+	<summary>
+AutoCompleteExtender2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmListaDePreciosEdit.txtCodProducto">
+	<summary>
+txtCodProducto control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmListaDePreciosEdit.txtPrecio">
+	<summary>
+txtPrecio control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmListaDePreciosEdit.cmdAgregar">
+	<summary>
+cmdAgregar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmListaDePreciosEdit.divErrorItem">
+	<summary>
+divErrorItem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmListaDePreciosEdit.lblErrorItem">
+	<summary>
+lblErrorItem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmListaDePreciosEdit.grilla">
+	<summary>
+grilla control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmListaDePreciosEdit.divErrorForm">
+	<summary>
+divErrorForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmListaDePreciosEdit.lblErrorForm">
+	<summary>
+lblErrorForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmListaDePreciosEdit.cmdGuardar">
+	<summary>
+cmdGuardar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmListaDePreciosEdit.cmdCancelar">
+	<summary>
+cmdCancelar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmUsuario.frmUsuario">
+	<summary>
+frmUsuario control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmUsuario.cmdNuevo">
+	<summary>
+cmdNuevo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmUsuario.grilla">
+	<summary>
+grilla control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante1.frmComprobante">
+	<summary>
+frmComprobante control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante1.cmdNuevo">
+	<summary>
+cmdNuevo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmComprobante1.grilla">
+	<summary>
+grilla control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmEmpresa.frmFamilia">
+	<summary>
+frmFamilia control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmEmpresa.cmdNuevo">
+	<summary>
+cmdNuevo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmEmpresa.grilla">
+	<summary>
+grilla control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmVendedorEdit.frmVendedorEdit">
+	<summary>
+frmVendedorEdit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmVendedorEdit.txtDescripcion">
+	<summary>
+txtDescripcion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmVendedorEdit.divErrorForm">
+	<summary>
+divErrorForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmVendedorEdit.lblErrorForm">
+	<summary>
+lblErrorForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmVendedorEdit.cmdGuardar">
+	<summary>
+cmdGuardar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmVendedorEdit.cmdCancelar">
+	<summary>
+cmdCancelar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedor.frmProveedor">
+	<summary>
+frmProveedor control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedor.cmdNuevo">
+	<summary>
+cmdNuevo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedor.grilla">
+	<summary>
+grilla control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmFamiliaEdit.frmFamiliaEdit">
+	<summary>
+frmFamiliaEdit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmFamiliaEdit.txtDescripcion">
+	<summary>
+txtDescripcion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmFamiliaEdit.divErrorForm">
+	<summary>
+divErrorForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmFamiliaEdit.lblErrorForm">
+	<summary>
+lblErrorForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmFamiliaEdit.cmdGuardar">
+	<summary>
+cmdGuardar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmFamiliaEdit.cmdCancelar">
+	<summary>
+cmdCancelar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmVendedoresEdit.frmVendedorEdit">
+	<summary>
+frmVendedorEdit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmVendedoresEdit.txtDescripcion">
+	<summary>
+txtDescripcion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmVendedoresEdit.divErrorForm">
+	<summary>
+divErrorForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmVendedoresEdit.lblErrorForm">
+	<summary>
+lblErrorForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmVendedoresEdit.cmdGuardar">
+	<summary>
+cmdGuardar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmVendedoresEdit.cmdCancelar">
+	<summary>
+cmdCancelar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:ContableWeb.jfServiciosDataSet.rptRemito_comprobantesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ContableWeb.jfServiciosDataSet.rptRemito_comprobantesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ContableWeb.jfServiciosDataSet.rptRemito_comprobantesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ContableWeb.jfServiciosDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:ContableWeb.jfServiciosDataSetTableAdapters.rptRemito_comprobantesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:ContableWeb.jfServiciosDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(ContableWeb.jfServiciosDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:ContableWeb.jfServiciosDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(ContableWeb.jfServiciosDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:ContableWeb.jfServiciosDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(ContableWeb.jfServiciosDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:ContableWeb.jfServiciosDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:ContableWeb.jfServiciosDataSetTableAdapters.TableAdapterManager.UpdateAll(ContableWeb.jfServiciosDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:ContableWeb.jfServiciosDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:ContableWeb.jfServiciosDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:ContableWeb.jfServiciosDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="F:ContableWeb.frmListaPrecios.frmListaP">
+	<summary>
+frmListaP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmListaPrecios.cmdNuevo">
+	<summary>
+cmdNuevo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmListaPrecios.grilla">
+	<summary>
+grilla control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:ContableWeb.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:ContableWeb.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member><member name="T:ContableWeb.My.Resources.Resources">
+	<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member><member name="F:ContableWeb.frmRecibo.frmComprobante">
+	<summary>
+Control frmComprobante.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmRecibo.cmdNuevo">
+	<summary>
+Control cmdNuevo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmRecibo.grilla">
+	<summary>
+Control grilla.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmFormaDePagoEdit.frmFormaDePagoEdit">
+	<summary>
+frmFormaDePagoEdit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmFormaDePagoEdit.txtDescripcion">
+	<summary>
+txtDescripcion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmFormaDePagoEdit.cmbSiNo">
+	<summary>
+cmbSiNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmFormaDePagoEdit.divErrorForm">
+	<summary>
+divErrorForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmFormaDePagoEdit.lblErrorForm">
+	<summary>
+lblErrorForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmFormaDePagoEdit.cmdGuardar">
+	<summary>
+cmdGuardar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmFormaDePagoEdit.cmdCancelar">
+	<summary>
+cmdCancelar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmReciboEdit.frmProductoEdit">
+	<summary>
+Control frmProductoEdit.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReciboEdit.ToolkitScriptManager1">
+	<summary>
+Control ToolkitScriptManager1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReciboEdit.hdfSoloLectura">
+	<summary>
+Control hdfSoloLectura.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReciboEdit.txtCliente">
+	<summary>
+Control txtCliente.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReciboEdit.AutoCompleteExtender1">
+	<summary>
+Control AutoCompleteExtender1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReciboEdit.cmbTipoOrden">
+	<summary>
+Control cmbTipoOrden.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReciboEdit.txtFecha">
+	<summary>
+Control txtFecha.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReciboEdit.txtFechaVencimientoExt">
+	<summary>
+Control txtFechaVencimientoExt.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReciboEdit.cmdVerComprobantes">
+	<summary>
+Control cmdVerComprobantes.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReciboEdit.rptComprobantesParaAsociar">
+	<summary>
+Control rptComprobantesParaAsociar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReciboEdit.rptComprobantesAsociados">
+	<summary>
+Control rptComprobantesAsociados.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReciboEdit.up2">
+	<summary>
+Control up2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReciboEdit.pnlAgregarCobro">
+	<summary>
+Control pnlAgregarCobro.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReciboEdit.cmbFormaPago">
+	<summary>
+Control cmbFormaPago.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReciboEdit.txtImporte">
+	<summary>
+Control txtImporte.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReciboEdit.pnlTarjeta">
+	<summary>
+Control pnlTarjeta.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReciboEdit.cmbTipoTarjeta">
+	<summary>
+Control cmbTipoTarjeta.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReciboEdit.txtCupon">
+	<summary>
+Control txtCupon.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReciboEdit.txtAutorizacion">
+	<summary>
+Control txtAutorizacion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReciboEdit.txtCuotas">
+	<summary>
+Control txtCuotas.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReciboEdit.cmdAgregarFormaDePago">
+	<summary>
+Control cmdAgregarFormaDePago.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReciboEdit.div1">
+	<summary>
+Control div1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReciboEdit.Label1">
+	<summary>
+Control Label1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmReciboEdit.rptFormasDePago">
+	<summary>
+Control rptFormasDePago.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ContableWeb.frmVendedor.frmVende">
+	<summary>
+frmVende control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmVendedor.cmdNuevo">
+	<summary>
+cmdNuevo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmVendedor.grilla">
+	<summary>
+grilla control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:ContableWeb.DSContableWeb.rptFactura_comprobantesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptDeudoresDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptAcreedoresDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptChequesCarteraDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptVentasVendedorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptChequesCedidosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.cobroVistaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.compraCabeVistaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.pedidoCabeVistaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.pagoVistaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptRemito_comprobantesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptFactura_cabeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptFactura_detalleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptProductoCostoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptProductoStockDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptMovCajaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptFactura_comprobantesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptDeudoresRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptAcreedoresRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptChequesCarteraRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptVentasVendedorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptChequesCedidosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.cobroVistaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.compraCabeVistaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.pedidoCabeVistaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.pagoVistaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptRemito_comprobantesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptFactura_cabeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptFactura_detalleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptProductoCostoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptProductoStockRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptMovCajaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptFactura_comprobantesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptDeudoresRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptAcreedoresRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptChequesCarteraRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptVentasVendedorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptChequesCedidosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.cobroVistaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.compraCabeVistaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.pedidoCabeVistaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.pagoVistaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptRemito_comprobantesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptFactura_cabeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptFactura_detalleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptProductoCostoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptProductoStockRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb.rptMovCajaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ContableWeb.DSContableWeb">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:ContableWeb.DSContableWebTableAdapters.rptFactura_comprobantesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ContableWeb.DSContableWebTableAdapters.rptDeudoresTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ContableWeb.DSContableWebTableAdapters.rptAcreedoresTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ContableWeb.DSContableWebTableAdapters.rptChequesCarteraTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ContableWeb.DSContableWebTableAdapters.rptVentasVendedorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ContableWeb.DSContableWebTableAdapters.rptChequesCedidosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ContableWeb.DSContableWebTableAdapters.cobroVistaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ContableWeb.DSContableWebTableAdapters.compraCabeVistaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ContableWeb.DSContableWebTableAdapters.pedidoCabeVistaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ContableWeb.DSContableWebTableAdapters.pagoVistaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ContableWeb.DSContableWebTableAdapters.rptRemito_comprobantesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ContableWeb.DSContableWebTableAdapters.rptFactura_cabeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ContableWeb.DSContableWebTableAdapters.rptFactura_detalleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ContableWeb.DSContableWebTableAdapters.rptProductoCostoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ContableWeb.DSContableWebTableAdapters.rptProductoStockTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ContableWeb.DSContableWebTableAdapters.rptMovCajaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:ContableWeb.DSContableWebTableAdapters.TableAdapterManager.UpdateUpdatedRows(ContableWeb.DSContableWeb,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:ContableWeb.DSContableWebTableAdapters.TableAdapterManager.UpdateInsertedRows(ContableWeb.DSContableWeb,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:ContableWeb.DSContableWebTableAdapters.TableAdapterManager.UpdateDeletedRows(ContableWeb.DSContableWeb,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:ContableWeb.DSContableWebTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:ContableWeb.DSContableWebTableAdapters.TableAdapterManager.UpdateAll(ContableWeb.DSContableWeb)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:ContableWeb.DSContableWebTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:ContableWeb.DSContableWebTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:ContableWeb.DSContableWebTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="F:ContableWeb.frmFamilia.frmFamilia">
+	<summary>
+frmFamilia control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmFamilia.cmdNuevo">
+	<summary>
+cmdNuevo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmFamilia.grilla">
+	<summary>
+grilla control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.frmProveedorEdit">
+	<summary>
+frmProveedorEdit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.txtCuit">
+	<summary>
+txtCuit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.txtRazonSocial">
+	<summary>
+txtRazonSocial control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.cmbProvincia">
+	<summary>
+cmbProvincia control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.cmbLocalidad">
+	<summary>
+cmbLocalidad control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.txtDomicilio">
+	<summary>
+txtDomicilio control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.txtCodigoPostal">
+	<summary>
+txtCodigoPostal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.txtTelefono">
+	<summary>
+txtTelefono control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.txtEmail">
+	<summary>
+txtEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.cmbCuentaCorriente">
+	<summary>
+cmbCuentaCorriente control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.cmbCondicionPago">
+	<summary>
+cmbCondicionPago control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.txtObservaciones">
+	<summary>
+txtObservaciones control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.divErrorForm">
+	<summary>
+divErrorForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.lblErrorForm">
+	<summary>
+lblErrorForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.cmdGuardar">
+	<summary>
+cmdGuardar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmProveedorEdit.cmdCancelar">
+	<summary>
+cmdCancelar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmUsuarioEdit.frmUsuarioEdit">
+	<summary>
+frmUsuarioEdit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmUsuarioEdit.txtNombreUsuario">
+	<summary>
+txtNombreUsuario control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmUsuarioEdit.txtContrasenia">
+	<summary>
+txtContrasenia control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmUsuarioEdit.txtContrasenia2">
+	<summary>
+txtContrasenia2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmUsuarioEdit.txtNombre">
+	<summary>
+txtNombre control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmUsuarioEdit.txtEmail">
+	<summary>
+txtEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmUsuarioEdit.divErrorForm">
+	<summary>
+divErrorForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmUsuarioEdit.lblErrorForm">
+	<summary>
+lblErrorForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmUsuarioEdit.cmdGuardar">
+	<summary>
+cmdGuardar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmUsuarioEdit.cmdCancelar">
+	<summary>
+cmdCancelar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmVendedores.frmVende">
+	<summary>
+frmVende control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmVendedores.cmdNuevo">
+	<summary>
+cmdNuevo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ContableWeb.frmVendedores.grilla">
+	<summary>
+grilla control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>
